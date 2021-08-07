@@ -1,3 +1,3 @@
 # Spotify Song Saver
 
-This project uses the Spotify Web API, Spotipy, and Python to automate the process of saving favorite songs.
+This project uses Python and the Spotify Web API via Spotipy to track unsaved favorite songs and add them to a playlist for review.
